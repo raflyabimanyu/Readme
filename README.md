@@ -1,4 +1,4 @@
-# Readme<h1 align="center">Hi 👋, I'm Muhamma Rafly Abimanayu</h1>
+# Readme<h1 align="center">Hi 👋, I'm Muhammad Rafly Abimanayu</h1>
 <h3 align="center">Students from Jendral Soedirman University, Central Java, Indonesia</h3>
 
 - ⚡ Fun fact **hard to focus** <h3 align="left">Connect with me:</h3>
